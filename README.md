@@ -12,3 +12,5 @@ A simple tool to evaluate the strength of passwords based on length, character t
 
 ```sh
 python password_checker.py
+
+Github Check
