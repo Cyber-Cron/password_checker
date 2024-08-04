@@ -1,4 +1,4 @@
-# Passowrd Strength Checker
+# Password Strength Checker
 
 A simple tool to evaluate the strength of passwords based on length, character types, and special characters.
 
